@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ulises 👋
 
 <!--
 **pala83/pala83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,17 +18,33 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
-</code>](https://angular.io/)
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)
+[<code>
+<img alt="php" width="26px" src="https://img.icons8.com/color/240/000000/php.png">
+</code>](https://www.php.net/)
+[<code>
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
+</code>](https://www.oracle.com/ar/java/technologies/)
+[<code>
+<img alt="c++" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
+</code>](https://www.oracle.com/ar/java/technologies/)
+
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+
+[<code>
+<img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
+</code>](https://angular.io/)
+
+
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
