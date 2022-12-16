@@ -1,5 +1,5 @@
 ### Hi there, I'm Ulises 👋
-
+***
 <!--
 **pala83/pala83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,67 +15,91 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages and Tools:
+### Languages:
 
 [<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
 </code>](https://www.typescriptlang.org/)
 [<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </code>](https://www.python.org/)
 [<code>
-<img alt="php" width="26px" src="https://img.icons8.com/color/240/000000/php.png">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
 </code>](https://www.php.net/)
 [<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </code>](https://www.oracle.com/ar/java/technologies/)
 [<code>
-<img alt="c++" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
-</code>](https://www.oracle.com/ar/java/technologies/)
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>
+</code>](https://isocpp.org/)
+
+### Technologies and Frameworks:
 
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+</code>](https://flask.palletsprojects.com/)
 [<code>
-<img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/>
+</code>](https://vuejs.org/)
+[<code>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
 </code>](https://angular.io/)
-
-
 [<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+</code>](https://getbootstrap.com/)
 [<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
+</code>](https://tailwindcss.com/)
 [<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+</code>](https://www.mysql.com/)
 [<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>
+</code>](https://www.sqlalchemy.org/)
 [<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+</code>](https://nodejs.org/)
+
+### Tools:
+
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-<br />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+</code>](https://code.visualstudio.com/)
 [<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/intellij-idea-logo-vector.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
+</code>](https://www.jetbrains.com/idea/)
 [<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+<img src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" title="Clion" alt="Clion" width="40" height="40"/>
+</code>](https://www.jetbrains.com/clion/)
+[<code>
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>
+</code>](https://httpd.apache.org/docs/)
+[<code>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+</code>](https://linuxmint.com/)
+[<code>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NginX" alt="NginX" width="40" height="40"/>
+</code>](https://nginx.org/docs/)
+[<code>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</code>](https://git-scm.com/doc)
+[<code>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+</code>](https://help.figma.com/hc/)
+[<code>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png" title="UML" alt="UML" width="50" height="40"/>
+</code>](https://www.uml-diagrams.org/)
+
+***
 
 <a href="https://github.com/Juliest88">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pala83&theme=dracula" alt="Ulises Palazzo's GitHub streak stats" />
