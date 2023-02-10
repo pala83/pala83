@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 ***
 
-<a href="https://github.com/Juliest88">
+<a href="https://github.com/pala83">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pala83&theme=dracula" alt="Ulises Palazzo's GitHub streak stats" />
 </a>
-<a href="https://github.com/Juliest88">
+<a href="https://github.com/pala83">
   <img src="https://github-readme-stats.vercel.app/api?username=pala83&count_private=true&show_icons=true&theme=dracula" alt="Ulises Palazzo's GitHub Stats" />
 </a>
