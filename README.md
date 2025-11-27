@@ -1,5 +1,13 @@
-### Hi there, I'm Ulises 👋
-***
+## Hola, soy Ulises Palazzo 👋
+
+📍 Desarrollador de aplicaciones web.
+
+🎯 Me enfoco en crear soluciones eficientes, escalables y orientadas a la mejor experiencia del usuario.
+
+🧠 En continuo aprendizaje, experimentando con las últimas tecnologías.
+
+---
+
 <!--
 **pala83/pala83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,47 +23,83 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages:
+## Lenguajes:
 
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> </code>](https://www.typescriptlang.org/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </code>](https://www.python.org/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> </code>](https://www.php.net/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </code>](https://www.oracle.com/ar/java/technologies/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/> </code>](https://isocpp.org/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/> </code>](https://learn.microsoft.com/dotnet/csharp/)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" title="Typescript" width="40"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="40"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" width="40"/>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" width="40" />
+          
+</p>
 
-### Technologies and Frameworks:
+## Tecnologias y Frameworks:
 
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/> </code>](https://flask.palletsprojects.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/> </code>](https://vuejs.org/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/> </code>](https://angular.io/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> </code>](https://getbootstrap.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/> </code>](https://tailwindcss.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/> </code>](https://www.postgresql.org/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/> </code>](https://www.sqlalchemy.org/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </code>](https://nodejs.org/)
+### 🎨 Frontend
 
-### Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" width="40"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" width="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" title="Tailwindcss" width="40"/>
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" title="Ionic" width="40" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue" width="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="40"/>
+</p>
 
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> </code>](https://code.visualstudio.com/)
-[<code> <img src="https://brandslogos.com/wp-content/uploads/thumbs/intellij-idea-logo-vector.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/> </code>](https://www.jetbrains.com/idea/)
-[<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" title="Clion" alt="Clion" width="40" height="40"/> </code>](https://www.jetbrains.com/clion/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/> </code>](https://httpd.apache.org/docs/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </code>](https://linuxmint.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NginX" alt="NginX" width="40" height="40"/> </code>](https://nginx.org/docs/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </code>](https://git-scm.com/doc)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> </code>](https://help.figma.com/hc/)
-[<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png" title="UML" alt="UML" width="50" height="40"/> </code>](https://www.uml-diagrams.org/)
+### ⚙️ Backend
 
-***
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" width="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="flask" width="40"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nest" title="Nest" width="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="Postgres" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="Mysql" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mongo" title="Mongo" width="40"/>
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" width="40"/>
+</p>
 
-<a href="https://github.com/pala83">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pala83&theme=dracula" alt="Ulises Palazzo's GitHub streak stats" />
-</a>
-<a href="https://github.com/pala83">
-  <img src="https://github-readme-stats.vercel.app/api?username=pala83&count_private=true&show_icons=true&theme=dracula" alt="Ulises Palazzo's GitHub Stats" />
-</a>
+### 🧰 Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node" width="40"/>
+  <img src="https://skillicons.dev/icons?i=bun" title="Bun" width="40"/>
+  <img src="https://skillicons.dev/icons?i=maven" title="Maven" width="40"/>
+  <img src="https://skillicons.dev/icons?i=cmake" title="Cmake" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" title="Composer" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" title="Apache" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" title="UML" width="40"/>
+  <img src="https://skillicons.dev/icons?i=debian" title="Debian" width="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Vs Code" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" title="Datagrip" width="40" />
+
+</p>
+
+## 🧠 Aprendiendo...
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=astro" title="Astro" width="40"/>
+  <img src="https://skillicons.dev/icons?i=go" title="Go" width="40"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" width="40"/>
+
+</p>
+
+## 📱 Mis contactos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ulises_Palazzo-blue?style=for-the-badge&labelColor=black)](https://www.linkedin.com/in/ulises-palazzo/)
+
+[![Email](https://img.shields.io/badge/Gmail-ulipalazzoo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:ulipalazzoo@gmail.com)
+
+### 📊 Github Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pala83&layout=compact&theme=radical&langs_count=8&exclude_repo=Remate-PHP)
